@@ -1,0 +1,2 @@
+var station = require('../lib/station');
+station.start();
