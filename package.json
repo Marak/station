@@ -8,7 +8,7 @@
     "url": "git://github.com/Marak/station.git"
   },
   "bin": {
-     "hookio-webhook": "./bin/station"
+     "hookio-station": "./bin/station"
    },
   "main": "./lib/station",
   "engines": {
