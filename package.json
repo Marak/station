@@ -1,0 +1,23 @@
+{
+  "author": "Marak Squires <marak.squires@gmail.com>",
+  "name": "station",
+  "description": "real-time web reporting application built with hook.io cloud",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Marak/station.git"
+  },
+  "bin": {
+     "hookio-webhook": "./bin/station"
+   },
+  "main": "./lib/station",
+  "engines": {
+    "node": ">= v0.4.7"
+  },
+  "dependencies": {
+    "hook.io" : "0.4.x",
+    "hook.io-webserver" : "0.1.x",
+    "hook.io-webhook" : "0.1.x"
+  },
+  "devDependencies": {}
+}
