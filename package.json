@@ -1,7 +1,7 @@
 {
   "author": "Marak Squires <marak.squires@gmail.com>",
   "name": "station",
-  "description": "real-time web reporting application built with hook.io cloud",
+  "description": "a real-time web i/o reporting application built with hook.io",
   "version": "0.1.0",
   "repository": {
     "type": "git",
