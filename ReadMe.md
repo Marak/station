@@ -2,7 +2,7 @@
 
 "*Station!*", Station, Bill and Ted's Bogus Journey.
 
-Station is a real-time web reporting application built with hook.io
+Station is a real-time web i/o reporting application built with hook.io
 
 # Installation
 
