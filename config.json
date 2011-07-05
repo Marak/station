@@ -1,1 +1,45 @@
-{}
+{
+  "sites": [
+    {
+      "name": "Blog",
+      "url": "http://blog.nodejitsu.com/",
+      "attempts": 4927,
+      "pongs": 4877,
+      "requestTime": 913,
+      "err": null,
+      "statusCode": 200
+    },
+    {
+      "name": "Home Page",
+      "url": "http://www.nodejitsu.com/",
+      "attempts": 4927,
+      "pongs": 4881,
+      "requestTime": 612,
+      "err": null,
+      "statusCode": 200
+    },
+    {
+      "name": "Master API",
+      "url": "http://api.nodejitsu.com/",
+      "attempts": 4927,
+      "pongs": 4887,
+      "requestTime": 413,
+      "err": null,
+      "statusCode": 400
+    },
+    {
+      "name": "Local Test",
+      "url": "http://localhost:8080/",
+      "attempts": 2776,
+      "pongs": 2769,
+      "requestTime": 48,
+      "err": {
+        "stack": "Error: ECONNREFUSED, Connection refused\n    at Socket._onConnect (net.js:599:18)\n    at IOWatcher.onWritable [as callback] (net.js:186:12)",
+        "message": "ECONNREFUSED, Connection refused",
+        "errno": 61,
+        "code": "ECONNREFUSED",
+        "syscall": "connect"
+      }
+    }
+  ]
+}

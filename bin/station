@@ -1,2 +1,15 @@
-var station = require('../lib/station');
+var Station = require('../lib/station').Station;
+
+var station = new Station({
+  name: "station",
+  options: {
+    "port": 9000,
+    "basicAuth" : {
+      "username": "admin",
+      "password": "admin"
+    }
+  }
+});
+
 station.start();
+
