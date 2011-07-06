@@ -19,6 +19,9 @@
     "hook.io-webserver" : "0.1.x",
     "hook.io-webhook" : "0.1.x",
     "hook.io-pinger" : "0.1.x",
+    "hook.io-cron" : "0.1.x",
+    "hook.io-request" : "0.1.x",
+    "request": "1.9.x",
     "colors": "0.5.x"
   },
   "devDependencies": {}
