@@ -1,7 +1,7 @@
 {
   "twilio": {
-    "sID": "1234",
-    "authToken": "5678"
+    "sID": "123",
+    "authToken": "456"
   },
   "people": [
     {
@@ -18,19 +18,19 @@
   "sites": [
     {
       "name": "Blog",
-      "url": "http://blog.nodejitsu.com",
+      "url": "http://blog.nodejitsu.com"
     },
     {
       "name": "Home Page",
-      "url": "http://www.nodejitsu.com",
+      "url": "http://www.nodejitsu.com"
     },
     {
       "name": "Master API",
-      "url": "http://api.nodejitsu.com",
+      "url": "http://api.nodejitsu.com"
     },
     {
       "name": "Admin Site",
-      "url": "http://develop.nodejitsu.com",
+      "url": "http://develop.nodejitsu.com"
     }
   ]
 }
