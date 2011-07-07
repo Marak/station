@@ -1,0 +1,36 @@
+{
+  "twilio": {
+    "sID": "1234",
+    "authToken": "5678"
+  },
+  "people": [
+    {
+      "name": "Marak",
+      "email": "marak.squires@gmail.com",
+      "mobile": "15555555555"
+    },
+    {
+      "name": "AvianFlu",
+      "email": "charlie@charlieistheman.com",
+      "mobile": "15555555555"
+    }
+  ],
+  "sites": [
+    {
+      "name": "Blog",
+      "url": "http://blog.nodejitsu.com",
+    },
+    {
+      "name": "Home Page",
+      "url": "http://www.nodejitsu.com",
+    },
+    {
+      "name": "Master API",
+      "url": "http://api.nodejitsu.com",
+    },
+    {
+      "name": "Admin Site",
+      "url": "http://develop.nodejitsu.com",
+    }
+  ]
+}
