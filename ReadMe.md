@@ -6,7 +6,7 @@ Station is a real-time web i/o reporting application built with hook.io
 
 # Installation
 
-    git clone https://Marak@github.com/Marak/station.git
+    git clone git://github.com/Marak/station.git
     cd station
     npm install
     node bin/station
