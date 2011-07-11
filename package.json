@@ -2,7 +2,7 @@
   "author": "Marak Squires <marak.squires@gmail.com>",
   "name": "station",
   "description": "a real-time web i/o reporting application built with hook.io",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/Marak/station.git"
@@ -21,6 +21,7 @@
     "hook.io-pinger" : "0.1.x",
     "hook.io-cron" : "0.1.x",
     "hook.io-request" : "0.1.x",
+    "hook.io-mailer" : "0.1.x",
     "request": "1.9.x",
     "colors": "0.5.x"
   },
