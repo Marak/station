@@ -1,21 +1,26 @@
 {
   "twilio": {
-    "sID": "123",
-    "authToken": "456"
+    "sID": "1234",
+    "authToken": "abcd"
+  },
+  "mailer": {
+    "host": "localhost",
+    "username": "marak",
+    "password": "1234",
+    "domain": "localhost"
   },
   "people": [
     {
       "name": "Marak",
       "email": "marak.squires@gmail.com",
       "mobile": "15555555555"
-    },
-    {
-      "name": "AvianFlu",
-      "email": "charlie@charlieistheman.com",
-      "mobile": "15555555555"
     }
   ],
   "sites": [
+    {
+      "name": "Local Test",
+      "url": "http://localhost:8080"
+    },
     {
       "name": "Blog",
       "url": "http://blog.nodejitsu.com"
